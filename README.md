@@ -80,11 +80,13 @@ Serenity Index      1.2          1.24
 
 ## 📊 Visualizations
 - Cumulative returns plot
-![cumulative returns](cum_returns.png)
+![cumulative returns](images/cum_returns.png)
 - Sharpe vs Sortino ratio bar chart
-![sharpe sortino](sharpe_sortino.png)
+![sharpe sortino](images/sharpe_sortino.png)
 - portfolio summary plot
-![portfolio summary](port_summary.png)
+![portfolio summary](images/port_summary.png)
+-Heatmap portfolio
+![Heatmap](images/heatmap.png)
 
 
 ## 📎 Dependencies
